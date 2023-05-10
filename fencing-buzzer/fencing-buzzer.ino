@@ -1,6 +1,6 @@
 // C++ code
 
-#define BUZZER_PIN 8
+#define BUZZER_PIN 2
 #define BUTTON_PIN 7
 
 void setup()
