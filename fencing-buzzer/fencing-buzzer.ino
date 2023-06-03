@@ -1,14 +1,12 @@
 // C++ code
 
-#define BUZZER_PIN 11
+#define BUZZER_PIN 9
 #define BLADE_PIN 12
 
 void setup()
 {
     pinMode(BUZZER_PIN, OUTPUT);
     pinMode(BLADE_PIN, INPUT);
-
-    Serial.print("test");
 }
 
 void loop()
